@@ -1,0 +1,29 @@
+# Created by .ignore support plugin (hsz.mobi)
+# Dependency directories
+/node_modules/
+
+# build
+/build/
+
+# webstorm settings
+/.idea/
+
+# Optional npm cache directory
+.npm
+
+# Babel cache directory
+babel_cache
+
+# webpack profiler output
+/webpack.stats.json
+/webpack.stats.mobile.json
+/temp/
+
+
+#environment variables
+/config/.env
+
+#runtime
+/runtime/
+
+build.json
